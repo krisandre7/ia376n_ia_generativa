@@ -3,3 +3,6 @@
 *.pkl
 
 !blood_exam/*.csv
+
+
+MNIST
