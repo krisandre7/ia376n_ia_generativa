@@ -6,3 +6,9 @@
 
 
 MNIST
+data
+*.zip
+.vscode
+explor_all
+results
+models
