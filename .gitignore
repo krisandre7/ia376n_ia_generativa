@@ -12,3 +12,6 @@ data
 explor_all
 results
 models
+experiments
+*.png
+*.pt
